@@ -1,0 +1,11 @@
+POST http://localhost:5000/api/superheroes/ HTTP/1.1
+Content-Type: application/json
+
+{
+    "nickname": "Sentry",
+    "realName": "Robert Reynolds",
+    "originDescription": "For a long time, the Sentry was the most beloved superhero on Earth who had gained his powers through mysterious medicine. 
+    Soon, he gained powers that could make him incredibly powerful, only to learn years later that he was his own greatest enemy and had to wipe his existence from mankind's memory (including his own), until the day he was remembered once more.",
+    "catchPhrase": "Sentry God, you don't understand, do you? You're the future, son. You're everything.",
+    "names": "Superhuman strength, speed, Energy projection and manipulation, Telepathy"
+}

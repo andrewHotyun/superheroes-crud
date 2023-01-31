@@ -1,0 +1,10 @@
+PATCH http://localhost:5000/api/superheroes/3 HTTP/1.1
+Content-Type: application/json
+
+{
+    "nickname": "Ghost Rider",
+    "realName": "Johnny Blaze",
+    "originDescription": "The Ghost Rider is a human who can transform into a skeletal superhuman wreathed in ethereal flame and given supernatural powers.",
+    "catchPhrase": "Vengeance is mine." "I escaped Hell, this is nothing." "No one defies the Spirit of Vengeance." "I always have the right way.",
+    "names": "superhuman speed, strength, durability, and a regenerative healing ability"
+}
